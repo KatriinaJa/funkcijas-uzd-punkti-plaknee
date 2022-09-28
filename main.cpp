@@ -17,25 +17,26 @@ punktu ir katrā kvadrantā.
 */
 
 
-void kpunkti(int k);
+// void kpunkti(int k);
 
 
 
 int main() {
- int k;
+// int k;
 
-  while (k > 1 || k < 50);
-  kpunkti(k); 
+ // while (k > 1 || k < 50);
+ // kpunkti(k); 
 
- 
+ cout << "hello ";
+ return 0;
 }
-
+/*
 void kpunkti(int k) {
   cout << "Ievadi punktu skaitu K (2<=K<=50): " << endl;
   cin >> k;
   } 
 
-
+*/
 /*
 
 int main() {
